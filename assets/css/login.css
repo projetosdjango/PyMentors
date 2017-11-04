@@ -1,0 +1,75 @@
+body {
+	margin: 0px;
+	background-color: #455D7F;
+}
+.container {
+	width: 600px;
+	height: 400px;
+	background-color: #F4F4F4;
+	margin: auto;
+	margin-top: 100px;
+	border-radius: 6px;
+	border: 1px solid black;
+}
+.container .img-login{
+	width: 130px;
+	height: 150px;
+	margin: auto;
+	padding-top: 30px;
+}
+.container .inputs-login {
+	width: 590px;
+	height: 195px;
+	/*background-color: red;*/
+	margin: auto;
+}
+.container .inputs-login .inputs {
+	width: 70%;
+	height: 120px;
+	/*background-color: blue;*/
+	margin: auto;
+}
+.container .inputs-login .inputs .btn-usuario {
+	width: 100%;
+	height: 30px;
+	border-radius: 3px;
+	text-align: left;
+	font-size: 16px;
+	font-family: Verdana;
+	color: black;
+	box-shadow: 2px 2px 2px #ffc;
+	   -webkit-box-shadow: 2px 2px 2px #ffc;
+	   -moz-box-shadow: 2px 2px 2px #ffc;
+}
+.container .inputs-login .inputs .btn-senha {
+	width: 100%;
+	height: 30px;
+	border-radius: 3px;
+	font-size: 16px;
+	font-family: Verdana;
+	color: black;
+	box-shadow: 2px 2px 2px #ffc;
+	   -webkit-box-shadow: 2px 2px 2px #ffc;
+	   -moz-box-shadow: 2px 2px 2px #ffc;
+}
+.container .inputs-login .button {
+	width: 150px;
+	height: 40px;
+	margin: auto;
+}
+.container .inputs-login .button button {
+	width: 150px;
+	height: 40px;
+	margin: auto;
+	color: #cac5db;
+	background-color: #534E62;
+	border: none;
+}
+.container .inputs-login .button button:hover {
+	width: 150px;
+	height: 40px;
+	margin: auto;
+	color: #FFFFFF;
+	background-color: #534E62;
+	border: none;
+}
